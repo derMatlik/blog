@@ -73,8 +73,8 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    name = "MD Sample"
+    url = "post/2015-02-20-test-markdown"
     weight = 1
 
 [[menu.main]]
